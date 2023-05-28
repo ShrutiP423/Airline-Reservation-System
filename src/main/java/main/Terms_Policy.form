@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" min="-2" pref="79" max="-2" attributes="0"/>
+              <EmptySpace pref="450" max="32767" attributes="0"/>
+              <Component id="jLabel2" max="32767" attributes="0"/>
+              <EmptySpace pref="450" max="32767" attributes="0"/>
+          </Group>
+          <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="41" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="486" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial" size="15" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="FlyHigh Airline Reservation System is one of the most accountable travel portals of India that takes care of the requirements of its clients. To maintain a perfect balance between the personal and professional relationship with its clients, it applies some terms and conditions.&#xa;&#xa;This agreement (user agreement) incorporates the terms and conditions for FlyHigh Airline Reservation System (FARS) and its affiliate Companies to provide services to its users.&#xa;&#xa;Both user and BookonSpot.com are individually referred as party to the agreement and collective referred to as parties.&#xa;&#xa;FARS may add, change or remove any part of these Terms and Conditions at any time, without notice. Any changes to these Terms and Conditions or any terms posted on this Site apply as soon as they are posted. You shall re-visit the Terms &amp; Conditions link from time to time to stay abreast of any changes that the Site may introduce.&#xa;&#xa;&#xa;TERMS AND CONDITIONS&#xa;The Terms and Conditions is a legal contract between you being, an individual customer, user, or beneficiary of this service, and Book on Spot (FARS) having its registered office at Mumbai.&#xa;&#xa;While accessing, using, browsing or making a booking through FlyHigh Airline Reservation System, users have to accept that they have agreed to the terms and conditions of our portal. In case of any violation, BookonSpot reserves all the rights for taking any legal actions against them.&#xa;&#xa;BookonSpot acts as an Intermediary solely to assist customers in gathering travel information, determining the availability of travel-related products and services, making legitimate reservations or otherwise transacting business with travel suppliers, and for facilitating travel requirements. You acknowledge that BoS merely provides intermediary services in order to facilitate these services. BoS is not the last mile service provider to you and therefore BoS shall not be deemed to be responsible for any lack or deficiency of services provided by any person or entity including bus operator, airline, hotel, activity provider or similar agency, you shall engage, hire from the content available on the Site.&#xa;&#xa;Use of the  Application&#xa;As a condition of your use of this Application, you warrant that:&#xa;&#xa;You possess the legal authority to create a binding legal obligation and enter into these Terms of use&#xa;You will use this  Application in accordance with the Terms of use&#xa;You will use this  Application to make only legitimate reservations for you or for another person for whom you are legally authorized to act&#xa;You will inform such other persons about the Terms of use that apply to the reservations you have made on their behalf, including all rules and restrictions applicable thereto&#xa;You will provide your proper and accurate Name (as per Passport or any other legal ID), Address, Email ID and Cell Number. You will be solely responsible for the Information provided and in case of any error or mistake in provision of information, FARS will not be liable for the same&#xa;If you have an online account with this Website, you will safeguard your login details &#x2013; login ID and password and will supervise the same. You will be completely responsible for any use or misuse of your account by you or by any other person.&#xa;FARS retains the right in its sole discretion to deny access to anyone to this  Application and the services we offer, at any time without notice and for any reason, including, but not limited to, for violation of these Terms of use.&#xa;Communication Policy of the app&#xa;Upon transacting on the App, you will receive an e-mail from FARS informing the status of your transaction on your registered email ID or the ID provided at the time of booking. You may also receive a SMS on your registered phone number. You are responsible for entering the proper and accurate contact details including your name, email ID, phone number to ensure that we can effectively communicate with you.&#xa;&#xa;FARS is not responsible to provide information on any change in bus schedules, cancellation, status of bus operator etc.&#xa;&#xa;Any grievance regarding the service should be communicated as per the grievance policy laid out herein.&#xa;&#xa;Content on the App&#xa;This App is only for your personal use. You shall not copy, license, adapt, distribute, exchange, modify, sell or transmit any content or material from this Site, including but not limited to any text, images, audio, video or links for any business, commercial or public purpose.&#xa;&#xa;Access to certain areas of the Site may only be available to registered members. To become a registered member, you may be required to provide certain details. You represent and warrant that all information you supply to us, about yourself, and others, is true and accurate.&#xa;&#xa;You understand that except for information, products or services clearly indicated as being supplied by FARS, we do not operate, control, or endorse any information, products or services on the Internet in anyway. You also understand that FARS cannot and does not guarantee or warrant that files available for downloading through the Site will be free of viruses, worms or other code that may be damaging. You are responsible for implementing procedures to satisfy your particular requirements and for accuracy of data input and output.&#xa;&#xa;BoS may add, change, discontinue, remove or suspend any Content or services posted on this app, including features and specifications of products described or depicted on the Site, temporarily or permanently, at any time, without notice and without liability.&#xa;&#xa;Confidentiality&#xa;Any information which is specifically mentioned by BookonSpot.com as Confidential shall be maintained confidentially by the user and shall not be disclosed unless as required by law or to serve the purpose of this agreement and the obligations of both the parties therein.&#xa;Copyright &amp; Trademark&#xa;Products, services and contents including but not limited to audio, images, software, text, icons and such like (the Content) displaying on BookonSpot.com are the properties of this website. Any unauthorized copy &amp; use of the trademark product &amp; services without prior concern will be taken as larceny and strict actions may be taken against the concern person/organization/company.&#xa;&#xa;Advertisers on FARS or linked websites&#xa;FARS is not responsible for any errors, omissions or representations on any of its pages or on any links or on any of the linked website pages. FARS does not endorse any advertiser on its web pages in any manner. The users are requested to verify the accuracy of all information on their own before undertaking any reliance on such information.&#xa;&#xa;The linked sites are not under the control of FARS and FARS is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. FARS is providing these links to the users only as a convenience and the inclusion of any link does not imply endorsement of the site by FARS.&#xa;&#xa;Usage of the Mobile Number of the User by FARS&#xa;FARS may send booking confirmation, cancellation, payment confirmation, refund status, schedule change or any such other information relevant for the transaction, via SMS or by voice call on the contact number given by the user at the time of booking; FARS may also contact the user by voice call, SMS or email in case the user couldn&#x2019;t or hasn&#x2019;t concluded the booking, for any reason what so ever, to know the preference of the user for concluding the booking and also to help the user for the same. The user hereby unconditionally consents that such communications via SMS and/ or voice call by FARS is (a) upon the request and authorization of the user, (b) &#x2018;transactional&#x2019; and not an &#x2018;unsolicited commercial communication&#x2019; as per the guidelines of Telecom Regulation Authority of India (TRAI) and (c) in compliance with the relevant guidelines of TRAI or such other authority in India and abroad. The user will indemnify FARS against all types of losses and damages incurred by FARS due to any action taken by TRAI, Access Providers (as per TRAI regulations) or any other authority due to any erroneous compliant raised by the user on FARS with respect to the intimations mentioned above or due to a wrong number or email id being provided by the user for any reason whatsoever.&#xa;&#xa;Prices on the  Application:&#xa;The price, which we offer on FlyHigh Airline Reservation System, includes the ticket cost, taxes and our fees. It never comprises any personal expense or other additional charges like accommodation, telephone calls, personal-man services.&#xa;&#xa;Mode of Payments:&#xa;To take the advantage of any travel facility or services through FlyHigh Airline Reservation System, you have to make your payment in advance. It gives you the confirmation of the booking. To make the payments online, you can use Visa, Master cards. FlyHigh Airline Reservation System offers a safe transaction process and ensures you that your personal security codes will not be revealed in worst cases also.&#xa;&#xa;For international payments, you can use Bank / Wire Transfer and transfer amount into our bank account together with the additional charges levied by the banks."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="17" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;-- Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel1MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="sansserif" size="25" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="TERMS AND CONDITIONS"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
